@@ -34,5 +34,8 @@
     },
     "scripts": {
         "test": "phpunit"
+    },
+    "replace": {
+        "spatie/pdf-to-text": "1.*"
     }
 }
